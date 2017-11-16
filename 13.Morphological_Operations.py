@@ -10,15 +10,15 @@ import imutils
 
 # In[15]:
 
-img = cv2.imread('/home/padmach/data/pyimagesearch/flower3.jpg')
-logo_img = cv2.imread('/home/padmach/data/pyimagesearch/pyimagesearch_logo_github.png')
-car_img = cv2.imread('/home/padmach/data/pyimagesearch/licence_plate1.jpg')
+img = cv2.imread('./datasets/flower3.jpg')
+logo_img = cv2.imread('./datasets/pyimagesearch_logo_github.png')
+car_img = cv2.imread('./datasets/licence_plate1.jpg')
 gray_car = cv2.cvtColor(car_img, cv2.COLOR_BGR2GRAY)
 
-car_img_light = cv2.imread('/home/padmach/data/pyimagesearch/licence_plate2.jpg')
+car_img_light = cv2.imread('./datasets/licence_plate2.jpg')
 gray_car_light = cv2.cvtColor(car_img_light, cv2.COLOR_BGR2GRAY)
 
-car_img_blue = cv2.imread('/home/padmach/data/pyimagesearch/licence_plate3.jpg')
+car_img_blue = cv2.imread('./datasets/licence_plate3.jpg')
 gray_car_blue = cv2.cvtColor(car_img_blue, cv2.COLOR_BGR2GRAY)
 
 #cv2.imshow("Original Image",img)

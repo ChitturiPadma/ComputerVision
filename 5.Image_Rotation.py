@@ -10,7 +10,7 @@ import imutils
 
 # In[2]:
 
-img = cv2.imread('/home/padmach/data/pyimagesearch/flower3.jpg')
+img = cv2.imread('./datasets/flower3.jpg')
 
 
 # In[5]:

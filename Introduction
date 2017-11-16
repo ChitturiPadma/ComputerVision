@@ -1,0 +1,32 @@
+Computer vision is the automatic analysis of images and videos by computers in order to gain some understanding
+of the world. Computer vision is inspired by the capabilities of the human vision system and, when initially addressed 
+in the 1960s and 1970s, it was thought to be a relatively straightforward problem to solve. However, the reason we
+think/thought that vision is easy is that we have our own visual system which makes the task seem intuitive to our
+conscious minds. In fact, the human visual system is very complex and even the estimates of how much of the brain is 
+involved with visual processing vary from 25% up to more than 50%.
+
+
+Computer vision applications outside the factory include:
+
+1. The automatic reading of license plates as they pass through tollgates on major roads.
+2. Augmenting sports broadcasts by determining distances for penalties, along with a range of other statistics
+(such as how far each player has travelled during the game).
+3. Biometric security checks in airports using images of faces and images of fingerprints.
+4. Augmenting movies by the insertion of virtual objects into video sequences, so that they appear as though they belong (e.g. the candles in the Great Hall in the Harry Potter movies).
+5. Assisting drivers by warning them when they are drifting out of lane.
+6. Creating 3D models of a destroyed building from multiple old photographs.
+7. Advanced interfaces for computer games allowing the real time detection of players or their hand-held controllers.
+8. Classification of plant types and anticipated yields based on multispectral satellite images.
+9. Detecting buried landmines in infrared images.
+
+
+The Future of Computer Vision:
+ We expect to see computer vision addressing progressively harder problems; that is problems in more complex 
+ environments with fewer constraints. We expect computer vision to start to be able to recognise more objects of
+ different types and to begin to extract more reliable and robust descriptions of the world in which they operate. 
+ For example, we expect computer vision to
+  a .become an integral part of general computer interfaces;
+  b. provide increased levels of security through biometric analysis;
+  c. provide reliable diagnoses of medical conditions from medical images and medical records;
+  d. allow vehicles to be driven autonomously;
+  e. automatically determine the identity of criminals through the forensic analysis of video.

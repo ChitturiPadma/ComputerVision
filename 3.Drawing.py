@@ -108,7 +108,7 @@ np.random.randint(0, high=300, size=(2,))
 # In[32]:
 
 #Drawing on existing image
-img = cv2.imread('/home/padmach/data/pyimagesearch/flower1.jpg')
+img = cv2.imread('./datasets/flower1.jpg')
 
 cv2.circle(img, (img.shape[1]/2, img.shape[0]/2), 25, (0,255,0), 2)
 cv2.rectangle(img, (10,10),(60,60), (0,0,255),-1)

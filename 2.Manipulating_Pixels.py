@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 # In[45]:
 
-img = cv2.imread('/home/padmach/Capabilities/kaggle/Invasive_Species/train/1.jpg')
+img = cv2.imread('./datasets/1.jpg')
 
 
 # In[46]:

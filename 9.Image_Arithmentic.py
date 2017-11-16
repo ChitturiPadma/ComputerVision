@@ -12,7 +12,7 @@ import imutils
 
 '''Using OpenCV, addition/subtraction of images performs clipping i.e. values falling outside the range [0,255]
 are clipped'''
-img = cv2.imread('/home/padmach/data/pyimagesearch/flower1.jpg')
+img = cv2.imread('./datasets/flower1.jpg')
 matrix = np.ones(img.shape, dtype='uint8')*100
 added_image = cv2.add(img,matrix)
 cv2.imshow('Added_Image', added_image)

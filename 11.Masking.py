@@ -12,7 +12,7 @@ import imutils
 # In[13]:
 
 #Reading the input image
-img = cv2.imread('/home/padmach/data/pyimagesearch/flower3.jpg')
+img = cv2.imread('./datasets/flower3.jpg')
 cv2.imshow('Original_Image',img)
 cv2.waitKey(0)
 
